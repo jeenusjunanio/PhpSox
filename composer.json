@@ -1,5 +1,5 @@
 {
-    "name": "jeenus/PhpSox",
+    "name": "jeenus/phpsox",
     "description": "This is a simple PHP library that wraps the functionality of the Sound eXchange command line utility.",
     "type": "library",
     "license": "MIT",
