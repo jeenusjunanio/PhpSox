@@ -3,9 +3,9 @@
  * SoundExchange
  * A php wrapper for sox (Sound Exchange)
  *
- * @author John Arroyo www.johnarroyo.com
+ * @author Jeenus Arroyo www.gns24.online
  * @package soundexchange
- * @copyright Copyright (c) 2011, John Arroyo
+ * @copyright Copyright (c) 2011, Jeenus A
  */
 
 class SoundExchange 
